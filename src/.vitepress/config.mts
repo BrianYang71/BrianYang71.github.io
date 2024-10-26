@@ -4,6 +4,7 @@ import { ThemeConfig } from './theme/types'
 // https://vitepress.dev/reference/site-config
 
 export default defineConfigWithTheme<ThemeConfig>({
+    base: '/src/',
     title: "Bo-Yu Yang",
     description: "Site description or title description",
     sitemap: {
