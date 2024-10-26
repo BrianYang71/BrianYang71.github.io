@@ -8,7 +8,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     title: "Bo-Yu Yang",
     description: "Site description or title description",
     sitemap: {
-        hostname: 'https://yourhosteddomain.com',
+        hostname: 'https://brianyang71.github.io/',
     },
     lastUpdated: true,
     themeConfig: {
