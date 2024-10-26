@@ -3,10 +3,10 @@
 layout: home
 
 hero:
-  name: "Your Name"
-  text: "Title Text"
-  image: https://www.github.com/iann838.png
-  tagline: Tagline or short biography or a personal quote Tagline or short biography or a personal quote Tagline or short biography or a personal quote
+  name: "Bo-Yu Yang"
+  text: ""
+  image: "" # https://www.github.com/BrianYang71.png""
+  tagline: Senior of Department of Electrical Engineering, National Taiwan University. Information Theory, Security and Privacy.
   actions:
     - theme: brand
       text: Resume
@@ -18,12 +18,12 @@ hero:
       text: Projects
       link: /projects/index.md
 
-features:
-  - title: Infobox A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Infobox B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Infobox C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Infobox A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Infobox B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Infobox C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

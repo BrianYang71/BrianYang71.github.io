@@ -12,6 +12,7 @@ import { useData } from 'vitepress';
 import { Profile } from './types';
 import VFProfile from './VFProfile.vue'
 
+
 const { Layout } = DefaultTheme
 const { site } = useData()
 

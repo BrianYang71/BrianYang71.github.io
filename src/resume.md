@@ -1,12 +1,13 @@
-# Name or Title
+# Bo-Yu Yang
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Senior of Department of Electrical Engineering, National Taiwan University. Information Theory, Security and Privacy.
 
-## Education
+<VFDownload text='Download my CV' href='src/assets/CV_Bo_Yu_Yang_241022.pdf' as='CV_Bo_Yu_Yang_241022.pdf'/>
 
-- Lorem ipsum dolor sit amet, GitHub University, 2018
-- Lorem ipsum dolor sit amet, GitHub University, 2015
-- Lorem ipsum dolor sit amet, GitHub University, 2011
+<!-- ## Education
+
+
+- Lorem ipsum dolor sit amet, National Taiwan University, 2011
 
 ## Work Experience
 
@@ -31,13 +32,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     - Skill 3.1
     - Skill 3.2
     - Skill 3.3
-- Skill N
 
 ## Category
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    - Lorem ipsum dolor sit amet
+    - Lorem ipsum dolor sit amet -->
 
 -----
