@@ -2,7 +2,7 @@
 
 Senior of Department of Electrical Engineering, National Taiwan University. Information Theory, Security and Privacy.
 
-<VFDownload text='Download my CV' href='src/public/CV_Bo_Yu_Yang_241026.pdf' as='CV_Bo_Yu_Yang_241026.pdf'/>
+<VFDownload text='Download my CV' href='/CV_Bo_Yu_Yang_241026.pdf' as='CV_Bo_Yu_Yang_241026.pdf'/>
 
 <!-- ## Education
 
