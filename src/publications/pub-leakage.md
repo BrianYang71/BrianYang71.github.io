@@ -11,5 +11,5 @@ Various properties of maximal α-leakage, such as data processing inequality and
 Moreover, we show that regularized α-leakage and regularized maximal α-leakage for identical and independent quantum privacy mechanisms coincide with α-tilted sandwiched Rényi information and sandwiched Rényi capacity, respectively.
 
 
-<VFDownload text='Download Paper' href='/assets/publications/leakage/Bo-Yu_Yang - Leakage_ISIT2024.pdf' as='Bo-Yu_Yang-Leakage_ISIT2024.pdf'/> 
-<VFDownload text='Download Slides' href='/assets/publications/leakage/Bo-Yu_Yang - Leakage_ISIT2024_slide.pdf' as='Bo-Yu_Yang-Leakage_ISIT2024_slide.pdf'/>
+<VFDownload text='Download Paper' href='/publications/leakage/Bo-Yu_Yang - Leakage_ISIT2024.pdf' as='Bo-Yu_Yang-Leakage_ISIT2024.pdf'/> 
+<VFDownload text='Download Slides' href='/publications/leakage/Bo-Yu_Yang - Leakage_ISIT2024_slide.pdf' as='Bo-Yu_Yang-Leakage_ISIT2024_slide.pdf'/>

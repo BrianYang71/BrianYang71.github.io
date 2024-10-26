@@ -15,4 +15,4 @@ semantic security as the security metric.
 
 ---
 
-<VFDownload text='Download Paper' href='/assets/projects/WTC-NIT/Finite_blocklength_WTC.pdf' as='Finite_blocklength_WTC.pdf'/>
+<VFDownload text='Download Paper' href='/projects/WTC-NIT/Finite_blocklength_WTC.pdf' as='Finite_blocklength_WTC.pdf'/>

@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Bo-Yu Yang"
   text: ""
-  image: "" # https://www.github.com/BrianYang71.png""
+  image: "/icon/m87.jpg" # https://www.github.com/BrianYang71.png""
   tagline: Senior of Department of Electrical Engineering, National Taiwan University. Information Theory, Security and Privacy.
   actions:
     - theme: brand

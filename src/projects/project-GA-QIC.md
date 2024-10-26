@@ -22,8 +22,8 @@ for readers to get a full understanding of the computation and ideas.
 
 
 
-<VFDownload text='Download Paper' href='/assets/projects/GA-QIC/QICFinalReport_GAQIC.pdf' as='GA-QIC.pdf'/> 
-<VFDownload text='Download Slides' href='/assets/projects/GA-QIC/GA-QIC.pptx' as='GA-QIC.pptx'/>
+<VFDownload text='Download Paper' href='/projects/GA-QIC/QICFinalReport_GAQIC.pdf' as='GA-QIC.pdf'/> 
+<VFDownload text='Download Slides' href='/projects/GA-QIC/GA-QIC.pptx' as='GA-QIC.pptx'/>
 
 ---
 
