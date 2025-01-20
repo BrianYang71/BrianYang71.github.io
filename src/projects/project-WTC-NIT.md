@@ -1,6 +1,6 @@
 # Finite-Blocklength Analysis in the Wiretap Channel
 
-Final Project, _Network Information Theory_, 2024 Spring
+Final Project, _Network Information Theory_, 2024 Spring (Instructor: Prof. I-Hsiang Wang)
 
 ---
 

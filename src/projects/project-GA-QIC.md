@@ -1,7 +1,7 @@
 
 # An Introduction to Quantum Computation in Geometric Algebra
 
-Final Project, _Quantum Information and Computation_, 2023 Spring
+Final Project, _Quantum Information and Computation_, 2023 Spring (Instructor: Prof. Hao-Chung Cheng)
 
 
 
